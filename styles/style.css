@@ -1,4 +1,4 @@
-#body{
+.text{
     padding-left: 430px;
     font-size: 17px;
     font-weight: 200;
@@ -18,11 +18,11 @@
 #about{
     font-size: 55px;
 }
-#seo{
+.text2{
     padding-left: 300px;
     margin-top: -430px;
 }
-#intro{
+#Introduction{
     color: rgb(56, 102, 63);
 }
 .fas{
@@ -31,14 +31,14 @@
 #img{
     margin-right: 200px;
 }
-#picture{
+#images{
     height: 12px;
     width: 40px;
     padding-left: 50px;
     padding-top: 5px;
     margin-top: 10px;   
 }
-#list{
+#icons1{
     margin-bottom: 100px;
     padding-bottom: 100px;
     margin-left: 10px;
@@ -48,12 +48,12 @@
     margin-bottom: -95px;  
 
 }
-#socialicons{
+#icons2{
     padding-left: 20px;
     margin-top: 300px;
     margin-bottom: -430px;   
 }
-#cloud{
+#icons3{
     padding-left: 20px;
     /* padding-top: 1px; */
     margin-top: 750px;
@@ -70,18 +70,13 @@
     text-align: center;
     color:black
     /* letter-spacing: 0.3mm; */
-    
-    
-     
-    
-    
+        
     
 }
 #Dev{
     color:  rgb(56, 102, 63);
     
 }
-
 
 #myname{
     font-size: 35px;
