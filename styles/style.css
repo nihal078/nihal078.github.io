@@ -4,7 +4,7 @@
     font-weight: 200;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 25px;
-    /* border-style: solid; */
+    
     background-color: #222;
     color: snow;
     margin-top: 1px;
@@ -14,7 +14,7 @@
     width: 590px;
     height: 825px;
     /* margin-bottom: 200px; */
-    /* margin-left: 205px;  */
+    /* margin-left: 205px;  */ 
 }
 #about{
     font-size: 55px;
@@ -67,7 +67,7 @@
     /* width: 90%; */
     /* margin: 0 auto; */
     position: absolute;
-    top: 120%;
+    top: 100%;
     width: 35%;
     text-align: center;
     color: white;
@@ -80,9 +80,7 @@
     color:  rgb(56, 102, 63);
 }
 
-.name{
 
-}
 #myname{
     font-size: 35px;
 }
